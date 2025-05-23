@@ -1,8 +1,11 @@
 # Jean Baptiste SHUMBUSHO - Portfolio
 
-![Portfolio Screenshot](/assets/images/screenshot.png)
 
-This is the professional portfolio website of Jean Baptiste SHUMBUSHO, a Full-Stack Developer and Technical Director based in Kigali, Rwanda.
+
+This is the professional portfolio website of Jean Baptiste SHUMBUSHO, a Full-Stack Developer with strong experience in software architecture, DevOps (Docker, Git, CI/CD), mobile/web
+development, and system integration. He has led scalable projects, mentored teams, and contributed to AI/ML, IoT, and GIS mapping initiatives.
+With certifications in networking (CCNA), cybersecurity, and machine learning, he brings a hands-on, results-driven approach backed by a solid
+academic background in Information Technology
 
 ## Features
 
