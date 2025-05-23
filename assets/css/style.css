@@ -103,6 +103,41 @@ nav ul li a:hover {
     color: var(--secondary-color);
 }
 
+nav ul li .download-cv {
+    background: #0077b5;
+    color: #fff !important;
+    padding: 0.4rem 1rem;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: 500;
+    display: inline-block;
+    transition: background 0.2s;
+    margin-left: 0.5rem;
+}
+
+nav ul li .download-cv:hover,
+nav ul li .download-cv:focus {
+    background: #005983;
+    color: #fff;
+}
+
+/* Responsive: Stack menu vertically on small screens */
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    nav ul li {
+        width: 100%;
+        margin: 0.2rem 0;
+    }
+    nav ul li .download-cv {
+        width: 100%;
+        text-align: center;
+        margin-left: 0;
+    }
+}
+
 /* Hero Section */
 .hero {
     height: 100vh;
